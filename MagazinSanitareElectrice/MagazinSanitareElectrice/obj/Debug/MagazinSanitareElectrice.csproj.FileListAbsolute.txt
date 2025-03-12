@@ -1,9 +1,0 @@
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\bin\Debug\MagazinSanitareElectrice.exe.config
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\bin\Debug\MagazinSanitareElectrice.exe
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\bin\Debug\MagazinSanitareElectrice.pdb
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\obj\Debug\MagazinSanitareElectrice.csproj.AssemblyReference.cache
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\obj\Debug\MagazinSanitareElectrice.Properties.Resources.resources
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\obj\Debug\MagazinSanitareElectrice.csproj.GenerateResource.cache
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\obj\Debug\MagazinSanitareElectrice.csproj.CoreCompileInputs.cache
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\obj\Debug\MagazinSanitareElectrice.exe
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\MagazinSanitareElectrice\obj\Debug\MagazinSanitareElectrice.pdb
